@@ -59,7 +59,7 @@ def get(key):
             print(pair[1])
             return
 
-    print("NULL")
+    print("")
 
 # start of program.
 load_data()
